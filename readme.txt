@@ -12,7 +12,7 @@ This repository documents my exploration and attempt to create a secure vault us
 - [Folder Structure](#folder-structure)
 - [Progress](#progress)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Prerequisites
 
@@ -57,6 +57,4 @@ Before you begin, ensure you have the following installed:
 
 Feel free to contribute by opening issues, providing feedback, or submitting pull requests. Contributions are welcome and appreciated!
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
